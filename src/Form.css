@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkcyan;
+    width: 300px;
+    height: 400px;
+}
+
+.heading{
+    text-align: center;
+}
+
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
